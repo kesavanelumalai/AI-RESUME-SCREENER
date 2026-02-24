@@ -95,19 +95,53 @@ Top Skills Detected:
 Recommendation: Highly Suitable Candidate
 🧠 Project Architecture
 Resume Upload → Text Extraction → NLP Processing → TF-IDF Vectorization → Cosine Similarity → Score Output
+
+
+
+
 📁 Folder Structure
 AI_resume_screener/
+
+
+
 │
 ├── app.py
+
+
+
 ├── requirements.txt
+
+
+
 ├── src/
+
+
+
+
 │   ├── parser/
+
+
+
 │   ├── matcher/
+
+
+
 │   └── utils/
+
+
 │
 ├── templates/
+
+
+
 ├── static/
+
+
+
 └── README.md
+
+
+
 🧪 Challenges
 
 Handling different resume formats

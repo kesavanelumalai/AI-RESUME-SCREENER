@@ -1,4 +1,6 @@
 AI RESUME SCREENER
+
+
 📌 Overview
 
 The AI Resume Screener automates resume filtering by comparing candidate resumes with a job description and generating a relevance score. It helps recruiters quickly identify the most suitable candidates without manual screening.
